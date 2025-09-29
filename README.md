@@ -10,16 +10,18 @@ It includes a responsive chat interface (frontend) and a simple Node.js/Express 
 Alignbox-chat/
 
 ├─ frontend/
-   index.html # Chat UI layout
+
+   * index.html # Chat UI layout
    
-   script.js # Chat logic, API calls
+   * script.js # Chat logic, API calls
    
-   style.css # Styling
+   * style.css # Styling
 
 ├─ backend/
-   server.js # Express server & API endpoints
+
+   * server.js # Express server & API endpoints
    
-   package.json # Backend dependencies
+   * package.json # Backend dependencies
 
 ---
 
@@ -32,7 +34,3 @@ Alignbox-chat/
   - `POST /api/messages` – send a new message
 
 ---
-
-✅ This is everything in one file. Save this as **`README.md`** at the root of your repo; GitHub will render it as the homepage.  
-
-Want me to also give you a ready-made **`.gitignore`** file content to copy alongside thi
