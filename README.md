@@ -11,16 +11,15 @@ Alignbox-chat/
 
 ├─ frontend/
    index.html # Chat UI layout
+   
    script.js # Chat logic, API calls
+   
    style.css # Styling
 
 ├─ backend/
    server.js # Express server & API endpoints
+   
    package.json # Backend dependencies
-├─ screenshots/ 
-   home.png
-   chat.png
-   README.md # This file
 
 ---
 
